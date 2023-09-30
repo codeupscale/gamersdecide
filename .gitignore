@@ -8,7 +8,6 @@
 /sites/*/files/php/drupal_container/
 
 # Ignore Composer dependencies (optional if you manage dependencies via Composer)
-/vendor/
 
 # Ignore local development environment files (customize this if needed)
 .env.local
